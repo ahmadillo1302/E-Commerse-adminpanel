@@ -101,7 +101,6 @@ export default function DashboardProducts({ status }) {
       <h2 className="text-2xl font-semibold mb-6 md:text-xl sm:text-lg">
         Products
       </h2>
-
       <div className="min-w-[768px] lg:min-w-0">
         <Table>
           <TableHeader>
